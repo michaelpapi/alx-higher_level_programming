@@ -1,5 +1,6 @@
+#!/usr/bin/python3
 
-dule: rectangle
+'''module: rectangle
 this module contains the class Rectangle ...
 '''
 
